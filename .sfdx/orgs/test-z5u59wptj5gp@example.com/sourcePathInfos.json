@@ -1,0 +1,435 @@
+[
+    [
+        "C:\\Users\\NIDA\\.sfdx\\geolocation\\force-app",
+        {
+            "sourcePath": "C:\\Users\\NIDA\\.sfdx\\geolocation\\force-app",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1557040980208,
+            "changeTime": 1557040980208,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "C:\\Users\\NIDA\\.sfdx\\geolocation\\force-app\\main",
+        {
+            "sourcePath": "C:\\Users\\NIDA\\.sfdx\\geolocation\\force-app\\main",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1557040980208,
+            "changeTime": 1557040980208,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\NIDA\\.sfdx\\geolocation\\force-app\\main\\default",
+        {
+            "sourcePath": "C:\\Users\\NIDA\\.sfdx\\geolocation\\force-app\\main\\default",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1557777816189,
+            "changeTime": 1557777816189,
+            "contentHash": "a21009004cd572d890d65233421722a21fcb20a4",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\NIDA\\.sfdx\\geolocation\\force-app\\main\\default\\aura",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\NIDA\\.sfdx\\geolocation\\force-app\\main\\default\\aura",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1557779628155,
+            "changeTime": 1557779628155,
+            "isWorkspace": false,
+            "contentHash": "832d559f1a94013b0352c6a465f75f2cfc8d1b8b"
+        }
+    ],
+    [
+        "C:\\Users\\NIDA\\.sfdx\\geolocation\\force-app\\main\\default\\classes",
+        {
+            "sourcePath": "C:\\Users\\NIDA\\.sfdx\\geolocation\\force-app\\main\\default\\classes",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1557777816322,
+            "changeTime": 1557777816322,
+            "contentHash": "da96db5fc418edc242454d3c266786b628188ceb",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\NIDA\\.sfdx\\geolocation\\force-app\\main\\default\\classes\\AccountSearchController.cls",
+        {
+            "sourcePath": "C:\\Users\\NIDA\\.sfdx\\geolocation\\force-app\\main\\default\\classes\\AccountSearchController.cls",
+            "isDirectory": false,
+            "size": 685,
+            "modifiedTime": 1557778172972,
+            "changeTime": 1557778172972,
+            "contentHash": "ca2a5a7f1d7a23bb78d288586fd8adc2e0a30422",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\NIDA\\.sfdx\\geolocation\\force-app\\main\\default\\classes\\AccountSearchController.cls-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\NIDA\\.sfdx\\geolocation\\force-app\\main\\default\\classes\\AccountSearchController.cls-meta.xml",
+            "isDirectory": false,
+            "size": 201,
+            "modifiedTime": 1557777816323,
+            "changeTime": 1557777816323,
+            "contentHash": "7a3e4b514776ce7cf897d7fa898d29e5e3fd537b",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\NIDA\\.sfdx\\geolocation\\force-app\\main\\default\\lwc",
+        {
+            "sourcePath": "C:\\Users\\NIDA\\.sfdx\\geolocation\\force-app\\main\\default\\lwc",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1557041169338,
+            "changeTime": 1557041169338,
+            "contentHash": "a973ac1b5be0e216b2a2db1b82ae5ba97f4086f4",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\NIDA\\.sfdx\\geolocation",
+        {
+            "sourcePath": "C:\\Users\\NIDA\\.sfdx\\geolocation",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1557692424720,
+            "changeTime": 1557692424720,
+            "contentHash": "aeef2c12ce6e7b39fb504f4bb604595bd05a7f33",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\NIDA\\.sfdx\\geolocation\\force-app\\main\\default\\aura\\AccountsLoaded",
+        {
+            "sourcePath": "C:\\Users\\NIDA\\.sfdx\\geolocation\\force-app\\main\\default\\aura\\AccountsLoaded",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1557778489335,
+            "changeTime": 1557778489335,
+            "contentHash": "4bba9f5fa252e1cd21062d694a0425e2246f27ae",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\NIDA\\.sfdx\\geolocation\\force-app\\main\\default\\aura\\AccountsLoaded\\AccountsLoaded.evt",
+        {
+            "sourcePath": "C:\\Users\\NIDA\\.sfdx\\geolocation\\force-app\\main\\default\\aura\\AccountsLoaded\\AccountsLoaded.evt",
+            "isDirectory": false,
+            "size": 101,
+            "modifiedTime": 1557778596471,
+            "changeTime": 1557778596471,
+            "contentHash": "a8f843d3e3b5a1f4a0ad28e91a8cc081c56a9577",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\NIDA\\.sfdx\\geolocation\\force-app\\main\\default\\aura\\AccountsLoaded\\AccountsLoaded.evt-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\NIDA\\.sfdx\\geolocation\\force-app\\main\\default\\aura\\AccountsLoaded\\AccountsLoaded.evt-meta.xml",
+            "isDirectory": false,
+            "size": 242,
+            "modifiedTime": 1557778489336,
+            "changeTime": 1557778489336,
+            "contentHash": "5dfe3f744956751581eba3002d0680a136532eb1",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\NIDA\\.sfdx\\geolocation\\force-app\\main\\default\\aura\\AccountSearch",
+        {
+            "sourcePath": "C:\\Users\\NIDA\\.sfdx\\geolocation\\force-app\\main\\default\\aura\\AccountSearch",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1557778922476,
+            "changeTime": 1557778922476,
+            "contentHash": "6227727dd56c9132b79b4e908af55410217dd161",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\NIDA\\.sfdx\\geolocation\\force-app\\main\\default\\aura\\AccountSearch\\AccountSearch.auradoc",
+        {
+            "sourcePath": "C:\\Users\\NIDA\\.sfdx\\geolocation\\force-app\\main\\default\\aura\\AccountSearch\\AccountSearch.auradoc",
+            "isDirectory": false,
+            "size": 209,
+            "modifiedTime": 1557778922475,
+            "changeTime": 1557778922475,
+            "contentHash": "fd7f560d82324d6a8255c8c6ebf60698f5f93f1e",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\NIDA\\.sfdx\\geolocation\\force-app\\main\\default\\aura\\AccountSearch\\AccountSearch.cmp",
+        {
+            "sourcePath": "C:\\Users\\NIDA\\.sfdx\\geolocation\\force-app\\main\\default\\aura\\AccountSearch\\AccountSearch.cmp",
+            "isDirectory": false,
+            "size": 717,
+            "modifiedTime": 1557779275839,
+            "changeTime": 1557779275839,
+            "contentHash": "1a34258e1b4a969ddcb36bd18709bd26b7e40252",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\NIDA\\.sfdx\\geolocation\\force-app\\main\\default\\aura\\AccountSearch\\AccountSearch.cmp-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\NIDA\\.sfdx\\geolocation\\force-app\\main\\default\\aura\\AccountSearch\\AccountSearch.cmp-meta.xml",
+            "isDirectory": false,
+            "size": 245,
+            "modifiedTime": 1557778921948,
+            "changeTime": 1557778921948,
+            "contentHash": "e26e2fd23ab89fff52b5cf5beacdaf7ba916b560",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\NIDA\\.sfdx\\geolocation\\force-app\\main\\default\\aura\\AccountSearch\\AccountSearch.css",
+        {
+            "sourcePath": "C:\\Users\\NIDA\\.sfdx\\geolocation\\force-app\\main\\default\\aura\\AccountSearch\\AccountSearch.css",
+            "isDirectory": false,
+            "size": 10,
+            "modifiedTime": 1557778922465,
+            "changeTime": 1557778922465,
+            "contentHash": "44063bf628f237edaa1f3f358714dd40ac321703",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\NIDA\\.sfdx\\geolocation\\force-app\\main\\default\\aura\\AccountSearch\\AccountSearch.design",
+        {
+            "sourcePath": "C:\\Users\\NIDA\\.sfdx\\geolocation\\force-app\\main\\default\\aura\\AccountSearch\\AccountSearch.design",
+            "isDirectory": false,
+            "size": 40,
+            "modifiedTime": 1557778922477,
+            "changeTime": 1557778922477,
+            "contentHash": "c5618bc7228e29c74b07b78fd040e05ae8a541ec",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\NIDA\\.sfdx\\geolocation\\force-app\\main\\default\\aura\\AccountSearch\\AccountSearch.svg",
+        {
+            "sourcePath": "C:\\Users\\NIDA\\.sfdx\\geolocation\\force-app\\main\\default\\aura\\AccountSearch\\AccountSearch.svg",
+            "isDirectory": false,
+            "size": 661,
+            "modifiedTime": 1557778922472,
+            "changeTime": 1557778922472,
+            "contentHash": "721eeffe17135535c3834b77f1e1968fe6360ed4",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\NIDA\\.sfdx\\geolocation\\force-app\\main\\default\\aura\\AccountSearch\\AccountSearchController.js",
+        {
+            "sourcePath": "C:\\Users\\NIDA\\.sfdx\\geolocation\\force-app\\main\\default\\aura\\AccountSearch\\AccountSearchController.js",
+            "isDirectory": false,
+            "size": 476,
+            "modifiedTime": 1557779342502,
+            "changeTime": 1557779342502,
+            "contentHash": "ef55b4f213a795c05e2e5c68e573434a10fcb2ef",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\NIDA\\.sfdx\\geolocation\\force-app\\main\\default\\aura\\AccountSearch\\AccountSearchHelper.js",
+        {
+            "sourcePath": "C:\\Users\\NIDA\\.sfdx\\geolocation\\force-app\\main\\default\\aura\\AccountSearch\\AccountSearchHelper.js",
+            "isDirectory": false,
+            "size": 575,
+            "modifiedTime": 1557779492270,
+            "changeTime": 1557779492270,
+            "contentHash": "b98370d856981bf5ebd68b5b41729b5aa46c5830",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\NIDA\\.sfdx\\geolocation\\force-app\\main\\default\\aura\\AccountSearch\\AccountSearchRenderer.js",
+        {
+            "sourcePath": "C:\\Users\\NIDA\\.sfdx\\geolocation\\force-app\\main\\default\\aura\\AccountSearch\\AccountSearchRenderer.js",
+            "isDirectory": false,
+            "size": 50,
+            "modifiedTime": 1557778922469,
+            "changeTime": 1557778922469,
+            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\NIDA\\.sfdx\\geolocation\\force-app\\main\\default\\aura\\AccountList",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\NIDA\\.sfdx\\geolocation\\force-app\\main\\default\\aura\\AccountList",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1557779628186,
+            "changeTime": 1557779628186,
+            "contentHash": "8560224a9375f41dec7cfcf002b9144a4be27670"
+        }
+    ],
+    [
+        "C:\\Users\\NIDA\\.sfdx\\geolocation\\force-app\\main\\default\\aura\\AccountList\\AccountList.auradoc",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\NIDA\\.sfdx\\geolocation\\force-app\\main\\default\\aura\\AccountList\\AccountList.auradoc",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 209,
+            "modifiedTime": 1557779628184,
+            "changeTime": 1557779628184,
+            "contentHash": "fd7f560d82324d6a8255c8c6ebf60698f5f93f1e"
+        }
+    ],
+    [
+        "C:\\Users\\NIDA\\.sfdx\\geolocation\\force-app\\main\\default\\aura\\AccountList\\AccountList.cmp",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\NIDA\\.sfdx\\geolocation\\force-app\\main\\default\\aura\\AccountList\\AccountList.cmp",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 583,
+            "modifiedTime": 1557779703673,
+            "changeTime": 1557779703673,
+            "contentHash": "44d071891870ff1aec019c00d22f991063541740"
+        }
+    ],
+    [
+        "C:\\Users\\NIDA\\.sfdx\\geolocation\\force-app\\main\\default\\aura\\AccountList\\AccountList.cmp-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\NIDA\\.sfdx\\geolocation\\force-app\\main\\default\\aura\\AccountList\\AccountList.cmp-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 243,
+            "modifiedTime": 1557779628160,
+            "changeTime": 1557779628160,
+            "contentHash": "4f2b577ab9601eb150f6621671f3696ad60eccb1"
+        }
+    ],
+    [
+        "C:\\Users\\NIDA\\.sfdx\\geolocation\\force-app\\main\\default\\aura\\AccountList\\AccountList.css",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\NIDA\\.sfdx\\geolocation\\force-app\\main\\default\\aura\\AccountList\\AccountList.css",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 10,
+            "modifiedTime": 1557779628179,
+            "changeTime": 1557779628179,
+            "contentHash": "44063bf628f237edaa1f3f358714dd40ac321703"
+        }
+    ],
+    [
+        "C:\\Users\\NIDA\\.sfdx\\geolocation\\force-app\\main\\default\\aura\\AccountList\\AccountList.design",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\NIDA\\.sfdx\\geolocation\\force-app\\main\\default\\aura\\AccountList\\AccountList.design",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 40,
+            "modifiedTime": 1557779628186,
+            "changeTime": 1557779628186,
+            "contentHash": "c5618bc7228e29c74b07b78fd040e05ae8a541ec"
+        }
+    ],
+    [
+        "C:\\Users\\NIDA\\.sfdx\\geolocation\\force-app\\main\\default\\aura\\AccountList\\AccountList.svg",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\NIDA\\.sfdx\\geolocation\\force-app\\main\\default\\aura\\AccountList\\AccountList.svg",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 661,
+            "modifiedTime": 1557779628183,
+            "changeTime": 1557779628183,
+            "contentHash": "721eeffe17135535c3834b77f1e1968fe6360ed4"
+        }
+    ],
+    [
+        "C:\\Users\\NIDA\\.sfdx\\geolocation\\force-app\\main\\default\\aura\\AccountList\\AccountListController.js",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\NIDA\\.sfdx\\geolocation\\force-app\\main\\default\\aura\\AccountList\\AccountListController.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 1397,
+            "modifiedTime": 1557779828034,
+            "changeTime": 1557779828034,
+            "contentHash": "dfcfc9e349672e9d93db610da040f856db5bf1ad"
+        }
+    ],
+    [
+        "C:\\Users\\NIDA\\.sfdx\\geolocation\\force-app\\main\\default\\aura\\AccountList\\AccountListHelper.js",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\NIDA\\.sfdx\\geolocation\\force-app\\main\\default\\aura\\AccountList\\AccountListHelper.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 45,
+            "modifiedTime": 1557779628177,
+            "changeTime": 1557779628177,
+            "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b"
+        }
+    ],
+    [
+        "C:\\Users\\NIDA\\.sfdx\\geolocation\\force-app\\main\\default\\aura\\AccountList\\AccountListRenderer.js",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\NIDA\\.sfdx\\geolocation\\force-app\\main\\default\\aura\\AccountList\\AccountListRenderer.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 50,
+            "modifiedTime": 1557779628181,
+            "changeTime": 1557779628181,
+            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b"
+        }
+    ]
+]
